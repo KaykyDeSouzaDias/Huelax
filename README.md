@@ -11,12 +11,11 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/github/downloads/KaykyDeSouzaDias/Mood-Fi/total?color=%232ECC71&label=Downloads">
   <a href="https://github.com/KaykyDeSouzaDias/Mood-Fi/blob/master/LICENSE.rtf"><img src="https://img.shields.io/github/license/KaykyDeSouzaDias/Mood-Fi?color=%232ECC71&label=License"></a>
-  <a href="https://github.com/KaykyDeSouzaDias/Mood-Fi/releases"><img src="https://img.shields.io/github/v/release/KaykyDeSouzaDias/Mood-Fi?color=%232ECC71"></a>
+  <img src="https://img.shields.io/badge/release-1.0.0-%232ECC71">
+  <img src="https://img.shields.io/github/stars/KaykyDeSouzaDias/Huelax?color=green&logo=GitHub">
   <br>
   <a href="https://www.producthunt.com/posts/mood-fi"><img src="https://img.shields.io/badge/Product Hunt-Give a Feedback!-%23DA552E"></a>
-  <img src="https://img.shields.io/github/stars/KaykyDeSouzaDias/Mood-Fi?color=green&logo=GitHub">
   <br><br>
   <a href="https://moodfi-download.netlify.app/"><img src="https://img.shields.io/badge/Huelax-Access now!-%232ECC71"></a>
 </div>
@@ -69,7 +68,7 @@ Huelax is the best place to create your favorite color palette and test it out r
 
 <h2>Stay tuned! Huelax is evolving...</h2>
 
-Huelax officially launched as version 1.0.0 on 13th of September 2023, however a lot of new features are coming up. Wait for updates on the app, watch out for updates in this repository or follow me on my social medias to be notified for future updates:
+Huelax officially launched as version 1.0.0 on 15th of September 2024, however a lot of new features are coming up. Wait for updates on the app, watch out for updates in this repository or follow me on my social medias to be notified for future updates:
 
 ![GIF_StayTuned_Mood-Fi](https://user-images.githubusercontent.com/59856984/160283875-4fba3451-ee55-482d-bb35-b676410886b3.gif)
 
